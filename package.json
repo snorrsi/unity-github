@@ -1,0 +1,12 @@
+{
+    "name": "com.mussila.unity-github",
+    "version": "1.4.0",
+    "displayName": "Mussila - Unity GitHub",
+    "description": "Mussila - Unity GitHub",
+    "unity": "2019.1",
+    "author": {
+      "name": "Mussila",
+      "email": "snorri@mussila.com",
+      "url": "https://github.com/snorrsi/unity-github"
+    }
+  }
